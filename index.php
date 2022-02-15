@@ -49,7 +49,7 @@ ul.topnav li.right {float: right;}
   <p>This example use media queries to stack the topnav vertically when the screen size is 600px or less.</p>
   <p>You will learn more about media queries and responsive web design later in our CSS Tutorial.</p>
 
-  <h4>Try to gice a conflict</h4>
+  <h4>Try to get a conflict</h4>
 
 </div>
 
